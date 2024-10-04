@@ -1,0 +1,15 @@
+ 
+
+
+
+    b and w : - https://html.rometheme.pro/alexander/?storefront=envato-elements
+
+    pirmriy color = #212529
+
+    seconry color = #0000000
+   
+    three color = red
+
+    --font-1: 'Cormorant Garamond', serif;
+
+    --font-2: 'Quicksand', sans-serif;

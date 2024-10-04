@@ -1,0 +1,330 @@
+@media(max-width:576px){
+    .continer{
+        width: 100%;
+    }
+    .w-xs-1{width: 8.33%;}
+    .w-xs-2{width: 16.66%;}
+    .w-xs-3{width: 25%;}
+    .w-xs-4{width: 33.33%;}
+    .w-xs-5{width: 41.66%;}
+    .w-xs-6{width: 50%;}
+    .w-xs-7{width: 58.33%}
+    .w-xs-8{width: 66.66%;}
+    .w-xs-9{width: 75%;}
+    .w-xs-10{width: 83.33%;}
+    .w-xs-11{width: 91.66%;}
+    .w-xs-12{width: 100%;}
+    .d-xs-none{
+        display: none;
+    }
+    .d-xs-block{
+        display: block;
+    }
+    .py-xs-0{
+        padding: 0 0 ;
+    }
+    .py-xs-both{
+        padding-left: 0px;
+    }
+    .sing-xs{
+        width: 80%;
+    }
+    .jus-xs-between{
+        justify-content: space-between;
+    }
+    .m-xs-auto{
+        margin: 0 auto;
+    }
+    .font-xs-50{
+        font-size: 50px;
+    }
+    .font-xs-25{
+        font-size: 25px;
+    }
+    .font-xs-16{
+        font-size: 16px;
+    }
+    .btn-xs{
+        padding: 0 0;
+    }
+    .py-top-xs-30{
+        padding-top:30px ;
+    }
+    .py-top-xs-80{
+        padding-top:80px ;
+    }
+    .py-bottom-xs-60{
+        padding-bottom:60px ;
+    }
+    .py-bottom-xs-20{
+        padding-bottom: 35px;
+    }
+    .py-xs-both{
+        padding: 60px 25px;
+    }
+    .py-top-xs-50{
+        padding-top: 100px;
+    }
+    .py-rigth-xs-50{
+        padding-right: 50px;
+    }
+    .wrap-xs-nowrap{
+        flex-wrap: nowrap;
+    }
+    .main-banner-xs{
+        background-size: 220%;
+        background-position:bottom;
+    }
+    .former::before-xs{
+        height: 550px;
+    }
+    .img-xs-for{
+        background-position: center;
+    }
+    .facephoto-xs{
+        background-position: center;
+    }
+    .text-xs-c{
+        text-align: center;
+    }
+    .gap-xs{
+        row-gap: 16px;
+        column-gap: 16px;
+      }
+}
+@media(min-width:576px){
+    .continer{
+        width: 540px;
+    }
+    .w-s-1{width: 8.33%;}
+    .w-s-2{width: 16.66%;}
+    .w-s-3{width: 25%;}
+    .w-s-4{width: 33.33%;}
+    .w-s-5{width: 41.66%;}
+    .w-s-6{width: 50%;}
+    .w-s-7{width: 58.33%}
+    .w-s-8{width: 66.66%;}
+    .w-s-9{width: 75%;}
+    .w-s-10{width: 83.33%;}
+    .w-s-11{width: 91.66%;}
+    .w-s-12{width: 100%;}
+    .d-s-none{
+        display: none;
+    }
+    .jus-s-between{
+        justify-content: space-between;
+    }
+    .font-s-70{
+        font-size: 70px;
+    }
+    .font-s-20{
+        font-size: 20px;
+    }
+    .font-s-50{
+        font-size: 50px;
+    }
+    .font-s-25{
+        font-size: 25px;
+    }
+    .font-s-16{
+        font-size: 16px;
+    }
+    .py-top-s-50{
+        padding-top:50px ;
+    }
+    .py-rigth-s-0{
+        padding-right: 0;
+    }
+    .py-top-s-80{
+        padding-top: 80px;
+    }
+    .py-top-s-50{
+        padding-top: 100px;
+    }
+    .py-bottom-s-60{
+        padding-bottom:60px ;
+    }
+    .py-bottom-s-40{
+        padding-bottom:40px ;
+    }
+    .m-s-auto{
+        margin: 0 auto;
+    }
+    .main-banner-s{
+        background-size: 150%;
+        background-position:top;
+        padding-top: -50px;
+    }
+    .line-s-5{
+        line-height: 25px;
+    }
+    .img-s-for{
+        background-position: center;
+    }
+    .facephoto-s{
+        background-position: center;
+    }
+    .text-s-c{
+        text-align: center;
+    }
+    .gap-s{
+        row-gap: 16px;
+        column-gap: 16px;
+      }
+}
+@media(min-width:768px){
+    .continer{
+        width: 720px;
+    }
+    .w-m-1{width: 8.33%;}
+    .w-m-2{width: 16.66%;}
+    .w-m-3{width: 25%;}
+    .w-m-4{width: 33.33%;}
+    .w-m-5{width: 41.66%;}
+    .w-m-6{width: 50%;}
+    .w-m-7{width: 58.33%}
+    .w-m-8{width: 66.66%;}
+    .w-m-9{width: 75%;}
+    .w-m-10{width: 83.33%;}
+    .w-m-11{width: 91.66%;}
+    .w-m-12{width: 100%;}
+    .d-m-none{
+        display: none;
+    }
+    .d-m-block{
+        display: block;
+    }
+    .wrap-m-nowrap{
+        flex-wrap: nowrap;
+    }
+    .font-m-140{
+        font-size: 140px;
+    }
+    .font-m-35{
+        font-size: 35px;
+    }
+   .font-m-65{
+    font-size: 60px;
+   }
+   .font-m-70{
+    font-size: 70px;
+   }
+   .m-m-auto{
+    margin: 0 auto;
+}
+}
+@media(min-width:992px){
+    .continer{
+        width: 960px;
+    }
+    .w-l-1{width: 8.33%;}
+    .w-l-2{width: 16.66%;}
+    .w-l-3{width: 25%;}
+    .w-l-4{width: 33.33%;}
+    .w-l-5{width: 41.66%;}
+    .w-l-6{width: 50%;}
+    .w-l-7{width: 58.33%}
+    .w-l-8{width: 66.66%;}
+    .w-l-9{width: 75%;}
+    .w-l-10{width: 83.33%;}
+    .w-l-11{width: 91.66%;}
+    .w-l-12{width: 100%;}
+    .d-l-none{
+        display: none;
+    }
+    .d-l-flex{
+        display: flex;
+    }
+    .d-l-block{
+        display: block;
+    }
+    .font-l-18{
+        font-size: 18px;
+    }
+    .font-l-70{
+        font-size: 70px;
+    }
+    .py-l-250{
+       
+        padding-right: 250px;
+    }
+    .py-l-100{
+        padding: 100px 0;
+    }
+    .py-l-both{
+        padding:0 50px ;
+    }
+    .py-l-botttom{
+        padding-bottom: 100px;
+    }
+    .main-banner-l{
+        background-size: 110%;
+        background-position:top;
+        padding-top: -50px;
+    }
+    .gap-l{
+        row-gap: 10px;
+        column-gap: 0px;
+      }
+}
+@media(min-width:1200px){
+    .continer{
+        width: 1140px;
+    }
+    .w-xl-1{width: 8.33%;}
+    .w-xl-2{width: 16.66%;}
+    .w-xl-3{width: 25%;}
+    .w-xl-4{width: 33.33%;}
+    .w-xl-5{width: 41.66%;}
+    .w-xl-6{width: 50%;}
+    .w-xl-7{width: 58.33%}
+    .w-xl-8{width: 66.66%;}
+    .w-xl-9{width: 75%;}
+    .w-xl-10{width: 83.33%;}
+    .w-xl-11{width: 91.66%;}
+    .w-xl-12{width: 100%;}
+    .d-xl-none{
+        display: none;
+    }
+    .d-xl-flex{
+        display: flex;
+    }
+    .py-xl-330{
+       
+        padding-right: 330px;
+    }
+    .py-xl-both{
+        padding: 0 130px;
+    }
+    .font-xl-40{
+        font-size: 40px;
+    }
+}
+@media(min-width:1400px){
+    .continer{
+        width: 1320px;
+    }
+    .w-xxl-1{width: 8.33%;}
+    .w-xxl-2{width: 16.66%;}
+    .w-xxl-3{width: 25%;}
+    .w-xxl-4{width: 33.33%;}
+    .w-xxl-5{width: 41.66%;}
+    .w-xxl-6{width: 50%;}
+    .w-xxl-7{width: 58.33%}
+    .w-xxl-8{width: 66.66%;}
+    .w-xxl-9{width: 75%;}
+    .w-xxl-10{width: 83.33%;}
+    .w-xxl-11{width: 91.66%;}
+    .w-xxl-12{width: 100%;} 
+    .d-xxl-none{
+        display: none;
+    }   
+    .py-xxl-460{
+        padding-right: 460px;
+    }
+    .main-banner-xxl{
+        background-size: 100%;
+        background-position:center;
+        padding-top: -50px;
+    }
+}
